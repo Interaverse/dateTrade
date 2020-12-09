@@ -1,0 +1,20 @@
+/* Add mobile styles for the component here.  */
+/* >> bottom-navigation-usage-css */
+.t-36 {
+    font-size: 36;
+}
+
+label {
+    padding-top: 10em;
+    padding-bottom: 10em;
+    font-size: x-large;
+    display: block;
+}
+#price {
+    text-align: center;
+    background-color: rgb(31, 29, 29);
+    width: 80em;
+    height: 30em;
+    border-radius: 2px;
+}
+/* << bottom-navigation-usage-css */

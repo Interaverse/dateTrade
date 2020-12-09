@@ -1,0 +1,22 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\node_modules",
+    "\\node_modules\\nativescript-dev-webpack",
+    "\\node_modules\\nativescript-dev-webpack\\node_modules",
+    "\\node_modules\\nativescript-dev-webpack\\node_modules\\@angular-devkit",
+    "\\node_modules\\nativescript-dev-webpack\\node_modules\\@angular-devkit\\core",
+    "\\node_modules\\nativescript-dev-webpack\\node_modules\\@angular-devkit\\core\\src",
+    "\\node_modules\\nativescript-dev-webpack\\node_modules\\@angular-devkit\\core\\src\\workspace",
+    "\\node_modules\\nativescript-dev-webpack\\node_modules\\@angular-devkit\\core\\src\\workspace\\json",
+    "\\node_modules\\nativescript-dev-webpack\\node_modules\\@angular-devkit\\core\\src\\workspace\\json\\test",
+    "\\node_modules\\nativescript-dev-webpack\\node_modules\\@angular-devkit\\core\\src\\workspace\\json\\test\\cases",
+    "\\node_modules\\watchpack-chokidar2",
+    "\\node_modules\\watchpack-chokidar2\\node_modules",
+    "\\node_modules\\watchpack-chokidar2\\node_modules\\binary-extensions",
+    "\\node_modules\\zone.js",
+    "\\node_modules\\zone.js\\dist",
+    "\\node_modules\\zone.js\\lib"
+  ],
+  "PreviewInSolutionExplorer": false
+}
